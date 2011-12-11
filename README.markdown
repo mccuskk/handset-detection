@@ -17,7 +17,7 @@ There's tens of thousands of mobile phones out there, all slightly different, wh
 
 ## Install
 
-	script/plugin install git://github.com/wooki/handset_detection.git
+	script/plugin install git://github.com/wooki/handset-detection.git
 
 Simple.
 
